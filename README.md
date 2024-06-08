@@ -58,7 +58,7 @@ During this same period, a site called [Solved by Flexbox](https://philipwalton.
 
 I thought about doing something similar. "Solved By Elixir" aims to promote the adoption of Elixir and Phoenix by presenting common problems developers face daily and how they can be easily solved with the language and the framework.
 
-## Contribution
+## How to Contribute
 
 Feel free to open a new Pull Request with new problems and solutions for them.
 
