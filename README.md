@@ -61,3 +61,9 @@ I thought about doing something similar. "Solved By Elixir" aims to promote the 
 ## Contribution
 
 Feel free to open a new Pull Request with new problems and solutions for them.
+
+## TODO
+
+* [ ] Setup NimblePublisher to write the guides
+* [ ] Build the website
+* [ ] Start writing the guides
