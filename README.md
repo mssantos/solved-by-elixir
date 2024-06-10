@@ -56,7 +56,7 @@ Positioning elements in CSS was always a nightmare. CSS, in general, was terribl
 
 During this same period, a site called [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/) emerged. It was created by a well-known community member who worked at Google and helped the [W3C](https://www.w3.org/) -the organization that sets web standards. The site is simple; it shows different tricky layout variations and how to achieve them with Flexbox. Straightforward and no-nonsense. It presents the problem, shows the solution using the API, and that’s it. Since everyone working in frontend at the time knew how hard certain things were, seeing how the difficult became easy was a crucial step in changing the perception of CSS for those on the front lines creating complex layouts.
 
-I thought about doing something similar. "Solved By Elixir" aims to promote the adoption of Elixir and Phoenix by presenting common problems developers face daily and how they can be easily solved with the language and the framework.
+"Solved By Elixir" aims to promote the adoption of Elixir and Phoenix by presenting common problems developers face daily and how they can be easily solved with the language and the framework.
 
 ## How to Contribute
 
